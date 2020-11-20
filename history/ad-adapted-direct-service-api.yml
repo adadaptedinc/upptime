@@ -1,7 +1,7 @@
-- url: $DIRECT_SERVICE_API
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-20T17:00:05.700Z
+- url: $SECRET_SITE_2
+- status: up
+- code: 200
+- responseTime: 56
+- lastUpdated: 2020-11-20T17:11:08.382Z
 - startTime: 2020-11-20T16:29:02.161Z
 - generator: Upptime <https://github.com/upptime/upptime>
