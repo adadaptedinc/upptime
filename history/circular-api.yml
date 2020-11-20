@@ -1,7 +1,7 @@
 - url: $SECRET_SITE_3
 - status: up
 - code: 200
-- responseTime: 54
-- lastUpdated: 2020-11-20T17:11:08.929Z
+- responseTime: 36
+- lastUpdated: 2020-11-20T17:49:47.181Z
 - startTime: 2020-11-20T16:29:04.038Z
 - generator: Upptime <https://github.com/upptime/upptime>
