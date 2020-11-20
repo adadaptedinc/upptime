@@ -5,9 +5,9 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: AdAdapted Direct
-    url: https://direct.adadapted.dev
+    url: https://direct.dev.adadapted.dev
   - name: AdAdapted Circulars
-    url: https://circulars.adadapted.dev
+    url: https://circulars.dev.adadapted.dev
   - name: AdAdapted Direct Reporting API
     url: $SECRET_SITE_1
   - name: AdAdapted Direct Service API
