@@ -9,13 +9,13 @@ sites:
   - name: AdAdapted Circulars
     url: https://circulars.adadapted.dev
   - name: AdAdapted Direct Reporting API
-    url: $DIRECT_REPORTING_API
+    url: $SECRET_SITE_1
   - name: AdAdapted Direct Service API
-    url: $DIRECT_SERVICE_API
+    url: $SECRET_SITE_2
   - name: Circular API
-    url: $CIRCULAR_API
+    url: $SECRET_SITE_3
   - name: Telemetry API
-    url: $TELEMETRY_API
+    url: $SECRET_SITE_4
 
 notifications:
   - type: slack
