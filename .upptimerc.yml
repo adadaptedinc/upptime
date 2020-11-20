@@ -19,16 +19,16 @@ sites:
 
 notifications:
   - type: slack
-    channel: upttime-dev
+    channel: $SLACK_CHANNEL
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.adadapted.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://secureservercdn.net/45.40.148.147/cnp.503.myftpupload.com/wp-content/uploads/2020/05/cropped-AdAdapted-Logo.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "AdAdapted Development Services Status"
+  introMessage: This status page provides realtime status updates for AdAdapted Development API's and applications
   navbar:
     - title: Status
       href: /
