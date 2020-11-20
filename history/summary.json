@@ -20,7 +20,7 @@
     "url": "$DIRECT_REPORTING_API",
     "slug": "ad-adapted-direct-reporting-api",
     "status": "down",
-    "uptime": "-1.30",
+    "uptime": "3.00",
     "time": 0
   },
   {
@@ -28,7 +28,7 @@
     "url": "$DIRECT_SERVICE_API",
     "slug": "ad-adapted-direct-service-api",
     "status": "down",
-    "uptime": "2.56",
+    "uptime": "0.47",
     "time": 0
   },
   {
@@ -36,7 +36,7 @@
     "url": "$CIRCULAR_API",
     "slug": "circular-api",
     "status": "down",
-    "uptime": "9.47",
+    "uptime": "3.93",
     "time": 0
   },
   {
@@ -44,7 +44,7 @@
     "url": "$TELEMETRY_API",
     "slug": "telemetry-api",
     "status": "down",
-    "uptime": "4.25",
+    "uptime": "0.97",
     "time": 0
   }
 ]
