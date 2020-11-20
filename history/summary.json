@@ -1,19 +1,19 @@
 [
   {
     "name": "AdAdapted Direct",
-    "url": "https://direct.adadapted.dev",
+    "url": "https://direct.dev.adadapted.dev",
     "slug": "ad-adapted-direct",
     "status": "up",
     "uptime": "100.00",
-    "time": 321
+    "time": 291
   },
   {
     "name": "AdAdapted Circulars",
-    "url": "https://circulars.adadapted.dev",
+    "url": "https://circulars.dev.adadapted.dev",
     "slug": "ad-adapted-circulars",
     "status": "up",
     "uptime": "100.00",
-    "time": 226
+    "time": 225
   },
   {
     "name": "AdAdapted Direct Reporting API",
@@ -21,7 +21,7 @@
     "slug": "ad-adapted-direct-reporting-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 42
+    "time": 80
   },
   {
     "name": "AdAdapted Direct Service API",
@@ -29,7 +29,7 @@
     "slug": "ad-adapted-direct-service-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 18
+    "time": 22
   },
   {
     "name": "Circular API",
@@ -37,7 +37,7 @@
     "slug": "circular-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 18
+    "time": 22
   },
   {
     "name": "Telemetry API",
@@ -45,6 +45,6 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 58
+    "time": 115
   }
 ]
