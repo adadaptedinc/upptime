@@ -35,16 +35,16 @@
     "name": "Circular API",
     "url": "$SECRET_SITE_3",
     "slug": "circular-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 29
+    "status": "down",
+    "uptime": "99.99%",
+    "time": 1318
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.26%",
     "time": 145
   }
 ]
