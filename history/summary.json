@@ -4,7 +4,7 @@
     "url": "https://direct.dev.adadapted.dev",
     "slug": "ad-adapted-direct",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 254
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://circulars.dev.adadapted.dev",
     "slug": "ad-adapted-circulars",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 241
   },
   {
@@ -20,7 +20,7 @@
     "url": "$SECRET_SITE_1",
     "slug": "ad-adapted-direct-reporting-api",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 139
   },
   {
@@ -28,7 +28,7 @@
     "url": "$SECRET_SITE_2",
     "slug": "ad-adapted-direct-service-api",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 32
   },
   {
@@ -36,15 +36,15 @@
     "url": "$SECRET_SITE_3",
     "slug": "circular-api",
     "status": "up",
-    "uptime": "100.00",
+    "uptime": "100.00%",
     "time": 29
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 149
+    "status": "down",
+    "uptime": "99.28%",
+    "time": 140
   }
 ]
