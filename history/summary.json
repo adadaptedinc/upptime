@@ -43,8 +43,8 @@
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
-    "status": "down",
-    "uptime": "97.91%",
-    "time": 152
+    "status": "up",
+    "uptime": "97.44%",
+    "time": 157
   }
 ]
