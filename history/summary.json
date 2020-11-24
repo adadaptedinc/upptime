@@ -19,9 +19,9 @@
     "name": "AdAdapted Direct Reporting API",
     "url": "$SECRET_SITE_1",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 183
+    "status": "up",
+    "uptime": "99.61%",
+    "time": 180
   },
   {
     "name": "AdAdapted Direct Service API",
