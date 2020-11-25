@@ -20,7 +20,7 @@
     "url": "$SECRET_SITE_1",
     "slug": "ad-adapted-direct-reporting-api",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.69%",
     "time": 176
   },
   {
@@ -36,15 +36,15 @@
     "url": "$SECRET_SITE_3",
     "slug": "circular-api",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.77%",
     "time": 1838
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
-    "status": "up",
-    "uptime": "98.64%",
-    "time": 159
+    "status": "down",
+    "uptime": "98.76%",
+    "time": 158
   }
 ]
