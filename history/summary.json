@@ -27,7 +27,7 @@
     "name": "AdAdapted Direct Service API",
     "url": "$SECRET_SITE_2",
     "slug": "ad-adapted-direct-service-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "time": 36
   },
@@ -43,8 +43,8 @@
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "time": 577
+    "time": 569
   }
 ]
