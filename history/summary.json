@@ -13,7 +13,7 @@
     "slug": "ad-adapted-circulars",
     "status": "up",
     "uptime": "100.00%",
-    "time": 199
+    "time": 201
   },
   {
     "name": "AdAdapted Direct Reporting API",
@@ -21,7 +21,7 @@
     "slug": "ad-adapted-direct-reporting-api",
     "status": "up",
     "uptime": "99.82%",
-    "time": 173
+    "time": 171
   },
   {
     "name": "AdAdapted Direct Service API",
@@ -37,14 +37,14 @@
     "slug": "circular-api",
     "status": "up",
     "uptime": "99.87%",
-    "time": 1213
+    "time": 1164
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
-    "status": "up",
-    "uptime": "99.29%",
-    "time": 1098
+    "status": "down",
+    "uptime": "99.30%",
+    "time": 1073
   }
 ]
