@@ -9,11 +9,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.56%",
-    "time": 228,
-    "timeDay": 161,
-    "timeWeek": 192,
-    "timeMonth": 228,
-    "timeYear": 228
+    "time": 227,
+    "timeDay": 161.33333333333334,
+    "timeWeek": 192.44444444444446,
+    "timeMonth": 227.66666666666666,
+    "timeYear": 227.66666666666666
   },
   {
     "name": "AdAdapted Circulars",
@@ -25,11 +25,11 @@
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.52%",
-    "time": 201,
-    "timeDay": 206,
-    "timeWeek": 184,
-    "timeMonth": 201,
-    "timeYear": 201
+    "time": 200,
+    "timeDay": 205.66666666666666,
+    "timeWeek": 183.66666666666666,
+    "timeMonth": 200.66666666666666,
+    "timeYear": 200.66666666666666
   },
   {
     "name": "AdAdapted Direct Reporting API",
@@ -42,10 +42,10 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.43%",
     "time": 182,
-    "timeDay": 130,
+    "timeDay": 129.66666666666666,
     "timeWeek": 152,
-    "timeMonth": 182,
-    "timeYear": 182
+    "timeMonth": 182.125,
+    "timeYear": 182.125
   },
   {
     "name": "AdAdapted Direct Service API",
@@ -59,9 +59,9 @@
     "uptimeYear": "99.21%",
     "time": 43,
     "timeDay": 42,
-    "timeWeek": 43,
-    "timeMonth": 43,
-    "timeYear": 43
+    "timeWeek": 42.93333333333333,
+    "timeMonth": 43.25,
+    "timeYear": 43.25
   },
   {
     "name": "Circular API",
@@ -73,26 +73,26 @@
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.37%",
-    "time": 950,
-    "timeDay": 56,
-    "timeWeek": 53,
-    "timeMonth": 950,
-    "timeYear": 950
+    "time": 949,
+    "timeDay": 56.333333333333336,
+    "timeWeek": 53.411764705882355,
+    "timeMonth": 949.6,
+    "timeYear": 949.6
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
-    "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "92.81%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
-    "time": 1343,
-    "timeDay": 191,
-    "timeWeek": 1906,
-    "timeMonth": 1343,
-    "timeYear": 1343
+    "status": "up",
+    "uptime": "98.65%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.65%",
+    "time": 1342,
+    "timeDay": 189.75,
+    "timeWeek": 1875.842105263158,
+    "timeMonth": 1342.2380952380952,
+    "timeYear": 1342.2380952380952
   }
 ]
