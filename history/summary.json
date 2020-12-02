@@ -4,7 +4,7 @@
     "url": "https://direct.dev.adadapted.dev",
     "slug": "ad-adapted-direct",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "time": 204
   },
   {
@@ -36,15 +36,15 @@
     "url": "$SECRET_SITE_3",
     "slug": "circular-api",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "time": 837
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
-    "status": "up",
-    "uptime": "98.70%",
-    "time": 1142
+    "status": "down",
+    "uptime": "98.72%",
+    "time": 1132
   }
 ]
