@@ -5,7 +5,15 @@
     "slug": "ad-adapted-direct",
     "status": "up",
     "uptime": "99.56%",
-    "time": 204
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 228,
+    "timeDay": 161,
+    "timeWeek": 192,
+    "timeMonth": 228,
+    "timeYear": 228
   },
   {
     "name": "AdAdapted Circulars",
@@ -13,7 +21,15 @@
     "slug": "ad-adapted-circulars",
     "status": "up",
     "uptime": "99.52%",
-    "time": 180
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 201,
+    "timeDay": 206,
+    "timeWeek": 184,
+    "timeMonth": 201,
+    "timeYear": 201
   },
   {
     "name": "AdAdapted Direct Reporting API",
@@ -21,30 +37,62 @@
     "slug": "ad-adapted-direct-reporting-api",
     "status": "up",
     "uptime": "99.42%",
-    "time": 156
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 182,
+    "timeDay": 130,
+    "timeWeek": 152,
+    "timeMonth": 182,
+    "timeYear": 182
   },
   {
     "name": "AdAdapted Direct Service API",
     "url": "$SECRET_SITE_2",
     "slug": "ad-adapted-direct-service-api",
-    "status": "up",
-    "uptime": "99.43%",
-    "time": 36
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 44,
+    "timeDay": 44,
+    "timeWeek": 44,
+    "timeMonth": 44,
+    "timeYear": 44
   },
   {
     "name": "Circular API",
     "url": "$SECRET_SITE_3",
     "slug": "circular-api",
     "status": "up",
-    "uptime": "99.36%",
-    "time": 837
+    "uptime": "99.37%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
+    "time": 950,
+    "timeDay": 56,
+    "timeWeek": 53,
+    "timeMonth": 950,
+    "timeYear": 950
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
     "status": "up",
-    "uptime": "98.70%",
-    "time": 1126
+    "uptime": "98.76%",
+    "uptimeDay": "92.75%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
+    "time": 1358,
+    "timeDay": 194,
+    "timeWeek": 1938,
+    "timeMonth": 1358,
+    "timeYear": 1358
   }
 ]
