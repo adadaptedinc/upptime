@@ -83,16 +83,16 @@
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
-    "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "98.09%",
-    "time": 985,
-    "timeDay": 170,
-    "timeWeek": 1134,
-    "timeMonth": 985,
-    "timeYear": 985
+    "status": "up",
+    "uptime": "98.06%",
+    "uptimeDay": "97.31%",
+    "uptimeWeek": "96.83%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "98.06%",
+    "time": 979,
+    "timeDay": 173,
+    "timeWeek": 1123,
+    "timeMonth": 979,
+    "timeYear": 979
   }
 ]
