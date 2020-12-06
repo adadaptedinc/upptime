@@ -9,11 +9,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.66%",
-    "time": 230,
-    "timeDay": 300,
-    "timeWeek": 206,
-    "timeMonth": 230,
-    "timeYear": 230
+    "time": 228,
+    "timeDay": 180,
+    "timeWeek": 201,
+    "timeMonth": 228,
+    "timeYear": 228
   },
   {
     "name": "AdAdapted Circulars",
@@ -26,8 +26,8 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.63%",
     "time": 199,
-    "timeDay": 128,
-    "timeWeek": 192,
+    "timeDay": 196,
+    "timeWeek": 198,
     "timeMonth": 199,
     "timeYear": 199
   },
@@ -41,11 +41,11 @@
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
-    "time": 179,
-    "timeDay": 159,
+    "time": 178,
+    "timeDay": 157,
     "timeWeek": 150,
-    "timeMonth": 179,
-    "timeYear": 179
+    "timeMonth": 178,
+    "timeYear": 178
   },
   {
     "name": "AdAdapted Direct Service API",
@@ -58,7 +58,7 @@
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.27%",
     "time": 42,
-    "timeDay": 34,
+    "timeDay": 35,
     "timeWeek": 42,
     "timeMonth": 42,
     "timeYear": 42
@@ -73,26 +73,26 @@
     "uptimeWeek": "98.32%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.15%",
-    "time": 910,
-    "timeDay": 1618,
+    "time": 887,
+    "timeDay": 1617,
     "timeWeek": 310,
-    "timeMonth": 910,
-    "timeYear": 910
+    "timeMonth": 887,
+    "timeYear": 887
   },
   {
     "name": "Telemetry API",
     "url": "$SECRET_SITE_4",
     "slug": "telemetry-api",
     "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "97.40%",
-    "uptimeWeek": "96.84%",
-    "uptimeMonth": "98.13%",
-    "uptimeYear": "98.13%",
-    "time": 926,
-    "timeDay": 184,
+    "uptime": "98.16%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "96.89%",
+    "uptimeMonth": "98.16%",
+    "uptimeYear": "98.16%",
+    "time": 921,
+    "timeDay": 186,
     "timeWeek": 1099,
-    "timeMonth": 926,
-    "timeYear": 926
+    "timeMonth": 921,
+    "timeYear": 921
   }
 ]
