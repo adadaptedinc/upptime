@@ -65,7 +65,7 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-adapted-direct-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "96.94%",
     "uptimeWeek": "99.38%",
