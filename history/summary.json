@@ -67,7 +67,7 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-adapted-direct-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -152,7 +152,7 @@
     "time": 562,
     "timeDay": 193,
     "timeWeek": 186,
-    "timeMonth": 448,
+    "timeMonth": 339,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2021-03-18": 29,
