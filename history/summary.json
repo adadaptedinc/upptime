@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 180,
-    "timeDay": 119,
+    "timeDay": 185,
     "timeWeek": 133,
     "timeMonth": 135,
     "timeYear": 180,
@@ -31,7 +31,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 207,
-    "timeDay": 199,
+    "timeDay": 185,
     "timeWeek": 144,
     "timeMonth": 130,
     "timeYear": 207,
@@ -54,7 +54,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1311,
-    "timeDay": 170,
+    "timeDay": 184,
     "timeWeek": 870,
     "timeMonth": 2114,
     "timeYear": 1311,
@@ -152,17 +152,16 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "92.90%",
     "uptimeYear": "98.73%",
     "time": 501,
-    "timeDay": 136,
+    "timeDay": 114,
     "timeWeek": 1352,
     "timeMonth": 862,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2021-10-09": 14,
       "2021-10-02": 16,
       "2021-09-22": 1251,
       "2021-09-21": 1440,
@@ -252,7 +251,8 @@
       "2020-12-04": 37,
       "2020-12-03": 109,
       "2020-12-02": 20,
-      "2020-12-01": 120
+      "2020-12-01": 120,
+      "2020-11-23": 18
     }
   }
 ]
