@@ -151,18 +151,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
     "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "92.90%",
+    "uptimeYear": "98.73%",
     "time": 500,
     "timeDay": 131,
     "timeWeek": 983,
     "timeMonth": 749,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2021-10-10": 9,
       "2021-10-02": 16,
       "2021-09-22": 1251,
       "2021-09-21": 1440,
@@ -252,7 +251,8 @@
       "2020-12-04": 37,
       "2020-12-03": 109,
       "2020-12-02": 20,
-      "2020-12-01": 120
+      "2020-12-01": 120,
+      "2020-11-23": 18
     }
   }
 ]
