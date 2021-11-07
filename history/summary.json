@@ -150,18 +150,19 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "status": "down",
+    "uptime": "98.84%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.84%",
     "time": 493,
-    "timeDay": 140,
-    "timeWeek": 136,
-    "timeMonth": 588,
+    "timeDay": 121,
+    "timeWeek": 135,
+    "timeMonth": 481,
     "timeYear": 493,
     "dailyMinutesDown": {
+      "2021-11-07": 0,
       "2021-11-01": 16,
       "2021-10-27": 21,
       "2021-10-26": 22,
@@ -255,7 +256,7 @@
       "2020-12-07": 73,
       "2020-12-05": 27,
       "2020-12-04": 37,
-      "2020-12-03": 78
+      "2020-12-03": 36
     }
   }
 ]
