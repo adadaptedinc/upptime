@@ -152,17 +152,16 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "98.84%",
     "time": 490,
     "timeDay": 148,
     "timeWeek": 144,
-    "timeMonth": 374,
+    "timeMonth": 378,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2021-11-10": 8,
       "2021-11-01": 16,
       "2021-10-27": 21,
       "2021-10-26": 22,
@@ -256,7 +255,7 @@
       "2020-12-07": 73,
       "2020-12-05": 27,
       "2020-12-04": 37,
-      "2020-12-03": 36
+      "2020-12-03": 78
     }
   }
 ]
