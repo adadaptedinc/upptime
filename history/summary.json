@@ -122,7 +122,7 @@
     "timeDay": 44,
     "timeWeek": 351,
     "timeMonth": 525,
-    "timeYear": 893,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2021-09-19": 20,
       "2021-01-30": 19,
@@ -148,18 +148,19 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.48%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "98.88%",
     "time": 501,
-    "timeDay": 140,
-    "timeWeek": 570,
-    "timeMonth": 651,
+    "timeDay": 135,
+    "timeWeek": 546,
+    "timeMonth": 553,
     "timeYear": 511,
     "dailyMinutesDown": {
+      "2021-11-26": 0,
       "2021-11-24": 36,
       "2021-11-20": 70,
       "2021-11-18": 32,
@@ -253,8 +254,7 @@
       "2020-12-19": 15,
       "2020-12-18": 15,
       "2020-12-16": 41,
-      "2020-12-12": 25,
-      "2020-12-09": 17
+      "2020-12-12": 25
     }
   }
 ]
