@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 176,
-    "timeDay": 150,
-    "timeWeek": 126,
-    "timeMonth": 148,
+    "timeDay": 197,
+    "timeWeek": 130,
+    "timeMonth": 150,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2020-12-01": 76
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 197,
-    "timeDay": 115,
-    "timeWeek": 124,
-    "timeMonth": 137,
+    "timeDay": 134,
+    "timeWeek": 118,
+    "timeMonth": 135,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2021-09-19": 21,
@@ -53,10 +53,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1346,
-    "timeDay": 180,
-    "timeWeek": 970,
-    "timeMonth": 1377,
+    "time": 1343,
+    "timeDay": 123,
+    "timeWeek": 964,
+    "timeMonth": 1207,
     "timeYear": 1405,
     "dailyMinutesDown": {
       "2021-09-19": 21,
@@ -77,10 +77,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 900,
-    "timeDay": 47,
-    "timeWeek": 833,
-    "timeMonth": 560,
+    "time": 898,
+    "timeDay": 64,
+    "timeWeek": 418,
+    "timeMonth": 561,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2021-09-19": 20,
@@ -103,8 +103,7 @@
       "2020-12-09": 19,
       "2020-12-04": 24,
       "2020-12-02": 40,
-      "2020-12-01": 76,
-      "2020-11-30": 21
+      "2020-12-01": 76
     }
   },
   {
@@ -118,10 +117,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 927,
-    "timeDay": 49,
-    "timeWeek": 665,
-    "timeMonth": 591,
+    "time": 925,
+    "timeDay": 81,
+    "timeWeek": 375,
+    "timeMonth": 592,
     "timeYear": 907,
     "dailyMinutesDown": {
       "2021-09-19": 20,
@@ -139,8 +138,7 @@
       "2020-12-12": 15,
       "2020-12-05": 49,
       "2020-12-02": 30,
-      "2020-12-01": 76,
-      "2020-11-30": 16
+      "2020-12-01": 76
     }
   },
   {
@@ -149,18 +147,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.54%",
+    "uptime": "98.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "98.88%",
     "time": 498,
-    "timeDay": 101,
-    "timeWeek": 523,
+    "timeDay": 116,
+    "timeWeek": 558,
     "timeMonth": 566,
-    "timeYear": 461,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2021-11-29": 14,
       "2021-11-24": 36,
       "2021-11-20": 70,
       "2021-11-18": 32,
@@ -254,7 +251,8 @@
       "2020-12-19": 15,
       "2020-12-18": 15,
       "2020-12-16": 41,
-      "2020-12-12": 25
+      "2020-12-12": 25,
+      "2020-12-09": 17
     }
   }
 ]
