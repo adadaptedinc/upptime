@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 188,
-    "timeWeek": 140,
+    "timeDay": 115,
+    "timeWeek": 134,
     "timeMonth": 154,
     "timeYear": 173,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 194,
-    "timeDay": 170,
-    "timeWeek": 115,
+    "timeDay": 113,
+    "timeWeek": 124,
     "timeMonth": 125,
     "timeYear": 194,
     "dailyMinutesDown": {
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1328,
-    "timeDay": 5133,
-    "timeWeek": 845,
-    "timeMonth": 1052,
-    "timeYear": 1439,
+    "timeDay": 1342,
+    "timeWeek": 1012,
+    "timeMonth": 1089,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2021-09-19": 21,
       "2021-05-22": 19,
@@ -73,9 +73,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 888,
-    "timeDay": 3027,
-    "timeWeek": 477,
+    "time": 886,
+    "timeDay": 43,
+    "timeWeek": 475,
     "timeMonth": 627,
     "timeYear": 988,
     "dailyMinutesDown": {
@@ -93,8 +93,7 @@
       "2020-12-27": 18,
       "2020-12-26": 22,
       "2020-12-24": 27,
-      "2020-12-21": 21,
-      "2020-12-15": 62
+      "2020-12-21": 21
     }
   },
   {
@@ -108,10 +107,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 909,
-    "timeDay": 2214,
-    "timeWeek": 363,
-    "timeMonth": 491,
+    "time": 907,
+    "timeDay": 49,
+    "timeWeek": 362,
+    "timeMonth": 492,
     "timeYear": 901,
     "dailyMinutesDown": {
       "2021-09-19": 20,
@@ -134,17 +133,16 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "98.87%",
     "time": 510,
-    "timeDay": 3159,
-    "timeWeek": 761,
-    "timeMonth": 604,
+    "timeDay": 3127,
+    "timeWeek": 759,
+    "timeMonth": 603,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2021-12-14": 11,
       "2021-12-11": 21,
       "2021-12-07": 19,
       "2021-12-03": 27,
@@ -239,7 +237,8 @@
       "2021-01-06": 22,
       "2021-01-05": 41,
       "2020-12-22": 30,
-      "2020-12-19": 15
+      "2020-12-19": 15,
+      "2020-12-18": 15
     }
   }
 ]
