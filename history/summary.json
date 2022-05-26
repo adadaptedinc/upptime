@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 173,
-    "timeWeek": 195,
-    "timeMonth": 150,
+    "timeDay": 189,
+    "timeWeek": 198,
+    "timeMonth": 153,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 61,
-    "timeWeek": 128,
-    "timeMonth": 115,
-    "timeYear": 132,
+    "timeDay": 176,
+    "timeWeek": 141,
+    "timeMonth": 119,
+    "timeYear": 131,
     "dailyMinutesDown": {
       "2021-09-19": 21,
       "2021-07-08": 16
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1331,
-    "timeDay": 130,
-    "timeWeek": 114,
-    "timeMonth": 124,
-    "timeYear": 1159,
+    "timeDay": 132,
+    "timeWeek": 121,
+    "timeMonth": 126,
+    "timeYear": 1150,
     "dailyMinutesDown": {
       "2021-12-22": 200,
       "2021-09-19": 21
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 947,
-    "timeDay": 46,
+    "timeDay": 59,
     "timeWeek": 56,
     "timeMonth": 53,
-    "timeYear": 712,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2021-12-22": 199,
       "2021-09-19": 20
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 784,
-    "timeDay": 48,
-    "timeWeek": 61,
+    "timeDay": 59,
+    "timeWeek": 60,
     "timeMonth": 56,
-    "timeYear": 683,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2021-09-19": 20
     }
@@ -112,9 +112,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.04%",
     "time": 518,
-    "timeDay": 146,
-    "timeWeek": 756,
-    "timeMonth": 598,
+    "timeDay": 135,
+    "timeWeek": 853,
+    "timeMonth": 609,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2022-05-25": 24,
@@ -192,8 +192,7 @@
       "2021-06-16": 24,
       "2021-06-11": 30,
       "2021-06-09": 40,
-      "2021-05-27": 56,
-      "2021-05-26": 42
+      "2021-05-27": 56
     }
   }
 ]
