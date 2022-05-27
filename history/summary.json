@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 189,
-    "timeWeek": 198,
-    "timeMonth": 153,
+    "timeDay": 177,
+    "timeWeek": 178,
+    "timeMonth": 151,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 176,
-    "timeWeek": 141,
-    "timeMonth": 119,
+    "timeDay": 128,
+    "timeWeek": 146,
+    "timeMonth": 120,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2021-09-19": 21,
@@ -50,10 +50,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1331,
-    "timeDay": 132,
-    "timeWeek": 121,
-    "timeMonth": 126,
-    "timeYear": 1150,
+    "timeDay": 177,
+    "timeWeek": 136,
+    "timeMonth": 128,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2021-12-22": 200,
       "2021-09-19": 21
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 947,
-    "timeDay": 59,
+    "time": 942,
+    "timeDay": 44,
     "timeWeek": 56,
     "timeMonth": 53,
-    "timeYear": 705,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2021-12-22": 199,
       "2021-09-19": 20
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 784,
-    "timeDay": 59,
+    "timeDay": 49,
     "timeWeek": 60,
     "timeMonth": 56,
-    "timeYear": 676,
+    "timeYear": 670,
     "dailyMinutesDown": {
       "2021-09-19": 20
     }
@@ -107,13 +107,13 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "98.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.04%",
     "time": 518,
-    "timeDay": 135,
-    "timeWeek": 853,
+    "timeDay": 151,
+    "timeWeek": 973,
     "timeMonth": 609,
     "timeYear": 550,
     "dailyMinutesDown": {
@@ -191,8 +191,7 @@
       "2021-06-19": 37,
       "2021-06-16": 24,
       "2021-06-11": 30,
-      "2021-06-09": 40,
-      "2021-05-27": 56
+      "2021-06-09": 40
     }
   }
 ]
