@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 180,
-    "timeWeek": 135,
-    "timeMonth": 147,
+    "timeDay": 117,
+    "timeWeek": 146,
+    "timeMonth": 149,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 139,
-    "timeDay": 126,
+    "time": 138,
+    "timeDay": 57,
     "timeWeek": 109,
-    "timeMonth": 143,
+    "timeMonth": 142,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2021-09-19": 21,
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1253,
-    "timeDay": 171,
-    "timeWeek": 172,
+    "timeDay": 169,
+    "timeWeek": 174,
     "timeMonth": 140,
     "timeYear": 965,
     "dailyMinutesDown": {
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 840,
-    "timeDay": 42,
-    "timeWeek": 48,
+    "timeDay": 50,
+    "timeWeek": 50,
     "timeMonth": 50,
     "timeYear": 564,
     "dailyMinutesDown": {
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
-    "timeDay": 48,
-    "timeWeek": 53,
+    "timeDay": 46,
+    "timeWeek": 54,
     "timeMonth": 313,
     "timeYear": 544,
     "dailyMinutesDown": {
@@ -107,17 +107,16 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.06%",
     "time": 527,
-    "timeDay": 159,
-    "timeWeek": 575,
-    "timeMonth": 440,
+    "timeDay": 133,
+    "timeWeek": 576,
+    "timeMonth": 441,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-07-06": 7,
       "2022-06-07": 38,
       "2022-06-04": 42,
       "2022-05-31": 45,
@@ -189,8 +188,7 @@
       "2021-07-16": 17,
       "2021-07-15": 39,
       "2021-07-14": 16,
-      "2021-07-13": 17,
-      "2021-07-07": 26
+      "2021-07-13": 17
     }
   }
 ]
