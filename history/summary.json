@@ -52,7 +52,7 @@
     "timeDay": 116,
     "timeWeek": 145,
     "timeMonth": 144,
-    "timeYear": 964,
+    "timeYear": 966,
     "dailyMinutesDown": {
       "2021-12-22": 200,
       "2021-09-19": 21
@@ -73,7 +73,7 @@
     "timeDay": 43,
     "timeWeek": 821,
     "timeMonth": 231,
-    "timeYear": 577,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2021-12-22": 199,
       "2021-09-19": 20
@@ -94,7 +94,7 @@
     "timeDay": 50,
     "timeWeek": 106,
     "timeMonth": 326,
-    "timeYear": 543,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2021-09-19": 20
     }
@@ -104,19 +104,19 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.06%",
     "time": 535,
-    "timeDay": 246,
-    "timeWeek": 602,
-    "timeMonth": 544,
+    "timeDay": 220,
+    "timeWeek": 581,
+    "timeMonth": 540,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2022-07-13": 0,
+      "2022-07-13": 12,
       "2022-07-12": 19,
       "2022-07-09": 21,
       "2022-06-07": 38,
