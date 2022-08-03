@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 141,
-    "timeWeek": 126,
-    "timeMonth": 141,
-    "timeYear": 143,
+    "timeDay": 209,
+    "timeWeek": 145,
+    "timeMonth": 146,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 113,
-    "timeWeek": 131,
+    "timeDay": 82,
+    "timeWeek": 132,
     "timeMonth": 126,
     "timeYear": 131,
     "dailyMinutesDown": {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1207,
-    "timeDay": 121,
-    "timeWeek": 685,
-    "timeMonth": 279,
+    "timeDay": 89,
+    "timeWeek": 679,
+    "timeMonth": 277,
     "timeYear": 944,
     "dailyMinutesDown": {
       "2021-12-22": 200,
@@ -69,10 +69,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 783,
-    "timeDay": 45,
-    "timeWeek": 46,
-    "timeMonth": 222,
+    "time": 781,
+    "timeDay": 61,
+    "timeWeek": 47,
+    "timeMonth": 223,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2021-12-22": 199,
@@ -92,7 +92,7 @@
     "uptimeYear": "100.00%",
     "time": 741,
     "timeDay": 58,
-    "timeWeek": 906,
+    "timeWeek": 905,
     "timeMonth": 258,
     "timeYear": 525,
     "dailyMinutesDown": {
@@ -105,16 +105,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "96.25%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.05%",
     "time": 552,
-    "timeDay": 3140,
+    "timeDay": 3148,
     "timeWeek": 970,
-    "timeMonth": 647,
-    "timeYear": 576,
+    "timeMonth": 662,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2022-08-02": 54,
       "2022-07-27": 57,
@@ -188,8 +188,7 @@
       "2021-08-07": 27,
       "2021-08-06": 16,
       "2021-08-05": 47,
-      "2021-08-04": 63,
-      "2021-08-03": 19
+      "2021-08-04": 63
     }
   }
 ]
