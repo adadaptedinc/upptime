@@ -13,7 +13,7 @@
     "time": 150,
     "timeDay": 194,
     "timeWeek": 144,
-    "timeMonth": 146,
+    "timeMonth": 145,
     "timeYear": 144,
     "dailyMinutesDown": {}
   },
@@ -51,8 +51,8 @@
     "time": 1191,
     "timeDay": 151,
     "timeWeek": 682,
-    "timeMonth": 273,
-    "timeYear": 942,
+    "timeMonth": 276,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2021-12-22": 200,
       "2021-09-19": 21
@@ -65,17 +65,16 @@
     "slug": "ad-adapted-direct-service-api",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 768,
     "timeDay": 38,
     "timeWeek": 46,
-    "timeMonth": 217,
-    "timeYear": 550,
+    "timeMonth": 223,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2022-08-05": 6,
       "2021-12-22": 199,
       "2021-09-19": 20
     }
@@ -87,17 +86,16 @@
     "slug": "circular-api",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 738,
     "timeDay": 41,
     "timeWeek": 49,
-    "timeMonth": 252,
-    "timeYear": 523,
+    "timeMonth": 259,
+    "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-08-05": 6,
       "2021-09-19": 20
     }
   },
@@ -115,8 +113,8 @@
     "time": 552,
     "timeDay": 158,
     "timeWeek": 688,
-    "timeMonth": 644,
-    "timeYear": 580,
+    "timeMonth": 650,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2022-08-03": 44,
       "2022-08-02": 54,
@@ -188,8 +186,7 @@
       "2021-08-18": 42,
       "2021-08-12": 18,
       "2021-08-09": 21,
-      "2021-08-07": 27,
-      "2021-08-06": 16
+      "2021-08-07": 27
     }
   }
 ]
