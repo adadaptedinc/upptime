@@ -4,9 +4,9 @@
     "url": "https://direct.dev.adadapted.dev",
     "icon": "https://favicons.githubusercontent.com/direct.dev.adadapted.dev",
     "slug": "ad-adapted-direct",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 128,
     "timeMonth": 131,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   },
   {
     "name": "AdAdapted Circulars",
     "url": "https://circulars.dev.adadapted.dev",
     "icon": "https://favicons.githubusercontent.com/circulars.dev.adadapted.dev",
     "slug": "ad-adapted-circulars",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 146,
     "timeYear": 134,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2021-09-19": 21
     }
   },
@@ -42,18 +45,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 976,
+    "time": 978,
     "timeDay": 181,
     "timeWeek": 127,
     "timeMonth": 133,
     "timeYear": 792,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2021-12-22": 200,
       "2021-09-19": 21
     }
@@ -63,18 +67,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ad-adapted-direct-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 632,
+    "time": 629,
     "timeDay": 45,
     "timeWeek": 42,
     "timeMonth": 325,
     "timeYear": 488,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2021-12-22": 199,
       "2021-09-19": 20
     }
@@ -84,18 +89,19 @@
     "url": "$SECRET_SITE_3",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "circular-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
+    "time": 593,
     "timeDay": 48,
     "timeWeek": 47,
     "timeMonth": 55,
     "timeYear": 453,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2021-09-19": 20
     }
   },
@@ -104,9 +110,9 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "telemetry-api",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.10%",
@@ -116,6 +122,7 @@
     "timeMonth": 432,
     "timeYear": 561,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2022-08-26": 19,
       "2022-08-25": 17,
       "2022-08-16": 15,
