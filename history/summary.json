@@ -33,7 +33,7 @@
     "time": 132,
     "timeDay": 56,
     "timeWeek": 117,
-    "timeMonth": 128,
+    "timeMonth": 127,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -53,8 +53,8 @@
     "time": 458,
     "timeDay": 81,
     "timeWeek": 133,
-    "timeMonth": 135,
-    "timeYear": 334,
+    "timeMonth": 134,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2022-09-14": 84
     }
@@ -73,8 +73,8 @@
     "time": 283,
     "timeDay": 48,
     "timeWeek": 45,
-    "timeMonth": 865,
-    "timeYear": 245,
+    "timeMonth": 891,
+    "timeYear": 246,
     "dailyMinutesDown": {
       "2023-04-27": 27,
       "2023-04-06": 19,
@@ -108,17 +108,17 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "98.17%",
     "uptimeYear": "99.70%",
     "time": 444,
     "timeDay": 1458,
     "timeWeek": 932,
-    "timeMonth": 498,
-    "timeYear": 420,
+    "timeMonth": 499,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2023-05-10": 69,
+      "2023-05-10": 59,
       "2023-04-29": 22,
       "2023-04-28": 41,
       "2023-04-27": 94,
