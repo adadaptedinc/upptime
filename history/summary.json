@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 154,
-    "timeDay": 98,
-    "timeWeek": 113,
-    "timeMonth": 133,
+    "timeDay": 124,
+    "timeWeek": 103,
+    "timeMonth": 134,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 131,
-    "timeDay": 105,
-    "timeWeek": 114,
-    "timeMonth": 123,
+    "timeDay": 176,
+    "timeWeek": 118,
+    "timeMonth": 124,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 426,
-    "timeDay": 89,
-    "timeWeek": 122,
-    "timeMonth": 130,
+    "time": 427,
+    "timeDay": 175,
+    "timeWeek": 126,
+    "timeMonth": 132,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -70,9 +70,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 276,
-    "timeDay": 51,
-    "timeWeek": 46,
+    "time": 270,
+    "timeDay": 48,
+    "timeWeek": 48,
     "timeMonth": 892,
     "timeYear": 245,
     "dailyMinutesDown": {
@@ -92,9 +92,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 175,
-    "timeDay": 48,
-    "timeWeek": 48,
+    "time": 171,
+    "timeDay": 53,
+    "timeWeek": 49,
     "timeMonth": 50,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -110,13 +110,13 @@
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "99.70%",
     "time": 414,
-    "timeDay": 164,
-    "timeWeek": 201,
-    "timeMonth": 486,
-    "timeYear": 414,
+    "timeDay": 281,
+    "timeWeek": 203,
+    "timeMonth": 508,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2023-05-10": 59,
       "2023-04-29": 22,
@@ -152,8 +152,7 @@
       "2022-05-31": 45,
       "2022-05-28": 32,
       "2022-05-27": 32,
-      "2022-05-25": 24,
-      "2022-05-21": 24
+      "2022-05-25": 24
     }
   }
 ]
