@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 154,
-    "timeDay": 69,
-    "timeWeek": 136,
-    "timeMonth": 134,
-    "timeYear": 157,
+    "timeDay": 167,
+    "timeWeek": 129,
+    "timeMonth": 135,
+    "timeYear": 158,
     "dailyMinutesDown": {
       "2022-09-14": 84
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 130,
-    "timeDay": 43,
-    "timeWeek": 86,
-    "timeMonth": 107,
+    "timeDay": 152,
+    "timeWeek": 91,
+    "timeMonth": 108,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 372,
-    "timeDay": 109,
-    "timeWeek": 135,
-    "timeMonth": 133,
+    "time": 362,
+    "timeDay": 136,
+    "timeWeek": 132,
+    "timeMonth": 132,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 234,
-    "timeDay": 40,
-    "timeWeek": 44,
-    "timeMonth": 47,
+    "time": 226,
+    "timeDay": 58,
+    "timeWeek": 46,
+    "timeMonth": 48,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2023-04-27": 27,
@@ -93,7 +93,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 147,
-    "timeDay": 48,
+    "timeDay": 58,
     "timeWeek": 49,
     "timeMonth": 51,
     "timeYear": 126,
@@ -108,17 +108,17 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "92.35%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "92.89%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.72%",
     "time": 445,
-    "timeDay": 160,
-    "timeWeek": 605,
+    "timeDay": 158,
+    "timeWeek": 628,
     "timeMonth": 617,
-    "timeYear": 406,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2023-06-06": 110,
+      "2023-06-06": 102,
       "2023-05-10": 59,
       "2023-04-29": 22,
       "2023-04-28": 41,
@@ -147,8 +147,7 @@
       "2022-07-18": 26,
       "2022-07-17": 7,
       "2022-07-12": 19,
-      "2022-07-09": 21,
-      "2022-06-07": 38
+      "2022-07-09": 21
     }
   }
 ]
