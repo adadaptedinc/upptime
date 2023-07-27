@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 154,
-    "timeDay": 43,
-    "timeWeek": 147,
-    "timeMonth": 144,
+    "timeDay": 57,
+    "timeWeek": 116,
+    "timeMonth": 140,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 132,
-    "timeDay": 71,
-    "timeWeek": 119,
-    "timeMonth": 165,
+    "timeDay": 126,
+    "timeWeek": 109,
+    "timeMonth": 163,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 283,
-    "timeDay": 107,
-    "timeWeek": 149,
-    "timeMonth": 134,
+    "timeDay": 111,
+    "timeWeek": 151,
+    "timeMonth": 132,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 208,
-    "timeDay": 47,
-    "timeWeek": 48,
-    "timeMonth": 47,
+    "timeDay": 55,
+    "timeWeek": 51,
+    "timeMonth": 48,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2023-04-27": 27,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 108,
-    "timeDay": 47,
-    "timeWeek": 53,
+    "timeDay": 55,
+    "timeWeek": 55,
     "timeMonth": 51,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -108,17 +108,16 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "84.94%",
-    "uptimeMonth": "76.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "89.33%",
+    "uptimeMonth": "76.65%",
     "uptimeYear": "97.80%",
     "time": 395,
-    "timeDay": 115,
-    "timeWeek": 582,
-    "timeMonth": 431,
+    "timeDay": 121,
+    "timeWeek": 583,
+    "timeMonth": 429,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2023-07-26": 14,
       "2023-07-21": 15,
       "2023-07-20": 1061,
       "2023-07-19": 1440,
@@ -151,8 +150,7 @@
       "2022-08-25": 17,
       "2022-08-16": 15,
       "2022-08-03": 44,
-      "2022-08-02": 54,
-      "2022-07-27": 57
+      "2022-08-02": 54
     }
   }
 ]
