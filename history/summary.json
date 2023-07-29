@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 154,
-    "timeDay": 155,
-    "timeWeek": 120,
-    "timeMonth": 138,
+    "timeDay": 97,
+    "timeWeek": 123,
+    "timeMonth": 139,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 132,
-    "timeDay": 294,
-    "timeWeek": 138,
-    "timeMonth": 167,
+    "timeDay": 78,
+    "timeWeek": 137,
+    "timeMonth": 160,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 283,
-    "timeDay": 142,
-    "timeWeek": 155,
-    "timeMonth": 134,
+    "timeDay": 92,
+    "timeWeek": 150,
+    "timeMonth": 133,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 208,
-    "timeDay": 57,
-    "timeWeek": 52,
-    "timeMonth": 48,
+    "timeDay": 49,
+    "timeWeek": 51,
+    "timeMonth": 49,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2023-04-27": 27,
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 108,
-    "timeDay": 62,
-    "timeWeek": 56,
+    "timeDay": 49,
+    "timeWeek": 54,
     "timeMonth": 52,
-    "timeYear": 104,
+    "timeYear": 87,
     "dailyMinutesDown": {
       "2022-09-14": 84
     }
@@ -108,17 +108,16 @@
     "slug": "telemetry-api",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "76.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "76.61%",
     "uptimeYear": "97.81%",
     "time": 429,
-    "timeDay": 1539,
-    "timeWeek": 1069,
+    "timeDay": 172,
+    "timeWeek": 859,
     "timeMonth": 618,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2023-07-28": 9,
       "2023-07-27": 17,
       "2023-07-21": 15,
       "2023-07-20": 1061,
