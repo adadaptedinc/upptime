@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 154,
-    "timeDay": 195,
-    "timeWeek": 128,
-    "timeMonth": 144,
+    "timeDay": 165,
+    "timeWeek": 144,
+    "timeMonth": 141,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 132,
-    "timeDay": 152,
-    "timeWeek": 135,
-    "timeMonth": 154,
+    "timeDay": 91,
+    "timeWeek": 130,
+    "timeMonth": 155,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 283,
-    "timeDay": 185,
-    "timeWeek": 147,
-    "timeMonth": 140,
+    "timeDay": 96,
+    "timeWeek": 145,
+    "timeMonth": 141,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2022-09-14": 84
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 208,
-    "timeDay": 48,
-    "timeWeek": 52,
-    "timeMonth": 49,
+    "timeDay": 46,
+    "timeWeek": 51,
+    "timeMonth": 50,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2023-04-27": 27,
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 108,
-    "timeDay": 51,
-    "timeWeek": 57,
+    "timeDay": 50,
+    "timeWeek": 56,
     "timeMonth": 53,
     "timeYear": 87,
     "dailyMinutesDown": {
@@ -107,18 +107,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telemetry-api",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "65.90%",
-    "uptimeWeek": "94.60%",
-    "uptimeMonth": "75.40%",
-    "uptimeYear": "97.71%",
+    "uptime": "98.94%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "80.31%",
+    "uptimeMonth": "72.12%",
+    "uptimeYear": "97.44%",
     "time": 439,
-    "timeDay": 4650,
-    "timeWeek": 980,
+    "timeDay": 84,
+    "timeWeek": 1101,
     "timeMonth": 699,
-    "timeYear": 400,
+    "timeYear": 388,
     "dailyMinutesDown": {
-      "2023-08-02": 1,
+      "2023-08-03": 1,
+      "2023-08-02": 1440,
       "2023-08-01": 491,
       "2023-07-31": 20,
       "2023-07-29": 16,
@@ -153,8 +154,7 @@
       "2022-09-14": 100,
       "2022-08-26": 19,
       "2022-08-25": 17,
-      "2022-08-16": 15,
-      "2022-08-03": 44
+      "2022-08-16": 15
     }
   }
 ]
