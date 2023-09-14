@@ -15,9 +15,7 @@
     "timeWeek": 161,
     "timeMonth": 132,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2022-09-14": 84
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Circulars",
@@ -35,9 +33,7 @@
     "timeWeek": 153,
     "timeMonth": 126,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2022-09-14": 84
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Direct Reporting API",
@@ -55,9 +51,7 @@
     "timeWeek": 152,
     "timeMonth": 140,
     "timeYear": 323,
-    "dailyMinutesDown": {
-      "2022-09-14": 84
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Direct Service API",
@@ -77,8 +71,7 @@
     "timeYear": 207,
     "dailyMinutesDown": {
       "2023-04-27": 27,
-      "2023-04-06": 19,
-      "2022-09-14": 84
+      "2023-04-06": 19
     }
   },
   {
@@ -97,9 +90,7 @@
     "timeWeek": 53,
     "timeMonth": 331,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2022-09-14": 84
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Telemetry API",
@@ -179,8 +170,7 @@
       "2023-04-18": 81,
       "2023-04-14": 21,
       "2022-11-10": 18,
-      "2022-11-08": 48,
-      "2022-09-14": 100
+      "2022-11-08": 48
     }
   }
 ]
