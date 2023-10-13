@@ -40,19 +40,19 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 14101,
-    "timeWeek": 3620,
-    "timeMonth": 1013,
-    "timeYear": 363,
+    "timeDay": 9460,
+    "timeWeek": 3238,
+    "timeMonth": 987,
+    "timeYear": 362,
     "dailyMinutesDown": {
-      "2023-10-13": 1
+      "2023-10-13": 6
     }
   },
   {
@@ -103,7 +103,7 @@
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "94.01%",
-    "uptimeMonth": "94.46%",
+    "uptimeMonth": "94.48%",
     "uptimeYear": "94.25%",
     "time": 418,
     "timeDay": 7685,
