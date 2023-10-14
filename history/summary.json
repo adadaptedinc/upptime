@@ -42,18 +42,16 @@
     "slug": "ad-adapted-direct-reporting-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
     "timeDay": 9460,
     "timeWeek": 3238,
     "timeMonth": 987,
     "timeYear": 362,
-    "dailyMinutesDown": {
-      "2023-10-13": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Direct Service API",
@@ -108,7 +106,7 @@
     "time": 418,
     "timeDay": 7685,
     "timeWeek": 423,
-    "timeMonth": 328,
+    "timeMonth": 330,
     "timeYear": 408,
     "dailyMinutesDown": {
       "2023-10-12": 230,
