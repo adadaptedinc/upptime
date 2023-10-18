@@ -97,18 +97,19 @@
     "url": "$SECRET_SITE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telemetry-api",
-    "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "84.21%",
+    "status": "down",
+    "uptime": "98.01%",
+    "uptimeDay": "84.19%",
     "uptimeWeek": "93.70%",
     "uptimeMonth": "94.15%",
-    "uptimeYear": "94.20%",
-    "time": 427,
-    "timeDay": 126,
-    "timeWeek": 710,
-    "timeMonth": 434,
+    "uptimeYear": "94.21%",
+    "time": 419,
+    "timeDay": 117,
+    "timeWeek": 693,
+    "timeMonth": 431,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2023-10-18": 0,
       "2023-10-17": 227,
       "2023-10-16": 127,
       "2023-10-15": 50,
@@ -176,8 +177,7 @@
       "2023-04-28": 41,
       "2023-04-27": 94,
       "2023-04-26": 62,
-      "2023-04-25": 116,
-      "2023-04-24": 61
+      "2023-04-25": 116
     }
   }
 ]
