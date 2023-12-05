@@ -4,28 +4,30 @@
     "url": "https://direct.dev.adadapted.dev",
     "icon": "https://icons.duckduckgo.com/ip3/direct.dev.adadapted.dev.ico",
     "slug": "ad-adapted-direct",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
+    "time": 150,
     "timeDay": 74,
     "timeWeek": 264,
     "timeMonth": 139,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 2
+    }
   },
   {
     "name": "AdAdapted Circulars",
     "url": "https://circulars.dev.adadapted.dev",
     "icon": "https://icons.duckduckgo.com/ip3/circulars.dev.adadapted.dev.ico",
     "slug": "ad-adapted-circulars",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 134,
@@ -33,7 +35,9 @@
     "timeWeek": 148,
     "timeMonth": 140,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 1
+    }
   },
   {
     "name": "AdAdapted Direct Reporting API",
@@ -98,18 +102,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telemetry-api",
     "status": "down",
-    "uptime": "94.27%",
+    "uptime": "94.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.58%",
+    "uptimeYear": "82.36%",
     "time": 416,
     "timeDay": 80,
     "timeWeek": 85,
     "timeMonth": 524,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2023-12-05": 1,
+      "2023-12-05": 1170,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
