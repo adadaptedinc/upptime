@@ -4,19 +4,19 @@
     "url": "https://direct.dev.adadapted.dev",
     "icon": "https://icons.duckduckgo.com/ip3/direct.dev.adadapted.dev.ico",
     "slug": "ad-adapted-direct",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 74,
-    "timeWeek": 264,
-    "timeMonth": 139,
-    "timeYear": 153,
+    "timeDay": 65,
+    "timeWeek": 238,
+    "timeMonth": 136,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-12-05": 10
+      "2023-12-05": 13
     }
   },
   {
@@ -26,37 +26,35 @@
     "slug": "ad-adapted-circulars",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
     "timeDay": 4406,
     "timeWeek": 1224,
     "timeMonth": 418,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2023-12-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AdAdapted Direct Reporting API",
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 113,
-    "timeWeek": 127,
-    "timeMonth": 109,
-    "timeYear": 317,
+    "time": 328,
+    "timeDay": 94,
+    "timeWeek": 121,
+    "timeMonth": 108,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2023-12-05": 2
+      "2023-12-05": 5
     }
   },
   {
@@ -64,19 +62,19 @@
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-service-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 208,
     "timeDay": 45,
-    "timeWeek": 51,
+    "timeWeek": 50,
     "timeMonth": 46,
-    "timeYear": 199,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2023-12-05": 1,
+      "2023-12-05": 5,
       "2023-04-27": 27,
       "2023-04-06": 19
     }
@@ -116,7 +114,7 @@
     "timeMonth": 524,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2023-12-05": 1178,
+      "2023-12-05": 1181,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
