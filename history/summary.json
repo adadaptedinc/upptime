@@ -6,9 +6,9 @@
     "slug": "ad-adapted-direct",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 74,
@@ -16,7 +16,7 @@
     "timeMonth": 139,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-12-05": 2
+      "2023-12-05": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://circulars.dev.adadapted.dev",
     "icon": "https://icons.duckduckgo.com/ip3/circulars.dev.adadapted.dev.ico",
     "slug": "ad-adapted-circulars",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 59,
-    "timeWeek": 148,
-    "timeMonth": 140,
-    "timeYear": 134,
+    "time": 151,
+    "timeDay": 4406,
+    "timeWeek": 1224,
+    "timeMonth": 418,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2023-12-05": 1
+      "2023-12-05": 7
     }
   },
   {
@@ -44,28 +44,30 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
+    "time": 329,
     "timeDay": 113,
     "timeWeek": 127,
     "timeMonth": 109,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-05": 2
+    }
   },
   {
     "name": "AdAdapted Direct Service API",
     "url": "$SECRET_SITE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 208,
@@ -74,6 +76,7 @@
     "timeMonth": 46,
     "timeYear": 199,
     "dailyMinutesDown": {
+      "2023-12-05": 1,
       "2023-04-27": 27,
       "2023-04-06": 19
     }
@@ -113,7 +116,7 @@
     "timeMonth": 524,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2023-12-05": 1170,
+      "2023-12-05": 1178,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
