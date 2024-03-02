@@ -40,10 +40,10 @@
     "url": "$SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-adapted-direct-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "98.02%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "98.01%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.96%",
     "time": 295,
@@ -52,7 +52,7 @@
     "timeMonth": 107,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-03-02": 88,
+      "2024-03-02": 89,
       "2024-03-01": 112
     }
   },
@@ -84,18 +84,16 @@
     "slug": "circular-api",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 48,
     "timeWeek": 54,
     "timeMonth": 53,
     "timeYear": 75,
-    "dailyMinutesDown": {
-      "2024-03-02": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Telemetry API",
@@ -103,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telemetry-api",
     "status": "down",
-    "uptime": "87.33%",
+    "uptime": "87.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "58.44%",
+    "uptimeYear": "58.33%",
     "time": 389,
     "timeDay": 88,
     "timeWeek": 80,
     "timeMonth": 89,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-03-02": 150,
+      "2024-03-02": 738,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
