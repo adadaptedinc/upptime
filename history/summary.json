@@ -82,19 +82,19 @@
     "url": "$SECRET_SITE_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "circular-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 48,
+    "timeDay": 52,
     "timeWeek": 54,
     "timeMonth": 53,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2024-03-02": 0
+      "2024-03-02": 8
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 89,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-03-02": 763,
+      "2024-03-02": 771,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
