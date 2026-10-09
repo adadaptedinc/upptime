@@ -4,18 +4,21 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: AdAdapted Direct
-    url: https://direct.dev.adadapted.dev
-  - name: AdAdapted Circulars
-    url: https://circulars.dev.adadapted.dev
-  - name: AdAdapted Direct Reporting API
-    url: $SECRET_SITE_1
-  - name: AdAdapted Direct Service API
-    url: $SECRET_SITE_2
-  - name: Circular API
-    url: $SECRET_SITE_3
   - name: Telemetry API
-    url: $SECRET_SITE_4
+    url: $SECRET_TELEMETRY_API
+  - name: MSP API
+    url: $SECRET_MSP_API
+  - name: Ad Service API
+    url: $SECRET_AD_SERVICE_API
+  - name: PaaS Management API
+    url: $SECRET_PAAS_MANAGEMENT_API
+    slug: paas-management-api
+  - name: PaaS Admin API
+    url: $SECRET_PAAS_ADMIN_API
+    slug: paas-admin-api
+  - name: PaaS Service API
+    url: $SECRET_PAAS_SERVICE_API
+    slug: paas-service-api
 
 notifications:
   - type: slack
