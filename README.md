@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.adadapted.dev): <!--live status--> **🟧 Partial outage**
 
-This repository contains the open-source uptime monitor and status page for [Upptime](https://upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the uptime monitor and [status page](https://status.adadapted.dev) for AdAdapted APIs, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/adadaptedinc/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/adadaptedinc/upptime/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/adadaptedinc/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/adadaptedinc/upptime/actions/workflows/response-time.yml)
