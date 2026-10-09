@@ -28,7 +28,8 @@ status-website:
   cname: status.adadapted.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://secureservercdn.net/45.40.148.147/cnp.503.myftpupload.com/wp-content/uploads/2020/05/cropped-AdAdapted-Logo.png
+  logoUrl: https://storage.googleapis.com/com-adadapted-images/static/adadapted-logo.svg
+  faviconSvg: https://storage.googleapis.com/com-adadapted-images/static/adadapted-logo.svg
   name: AdAdapted Status
   introTitle: "AdAdapted Development Services Status"
   introMessage: This status page provides realtime status updates for AdAdapted Development API's and applications
