@@ -1,0 +1,59 @@
+# validation — the org-required PR check (org ruleset: required status check "validation").
+# The job id IS the required check name (`validation`); keep it in sync with the ruleset.
+# Upptime's Update Template CI only regenerates its own 8 workflows, so this file is kept.
+name: validation
+
+on:
+  pull_request:
+  push:
+    branches: [master]
+
+concurrency:
+  group: validation-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Install PyYAML
+        run: python3 -m pip install --quiet pyyaml
+      - name: Validate Upptime config and workflows
+        shell: python3 {0}
+        run: |
+          import glob, sys, yaml
+
+          errors = []
+
+          for path in [".upptimerc.yml", *sorted(glob.glob(".github/workflows/*.yml"))]:
+              try:
+                  with open(path) as f:
+                      yaml.safe_load(f)
+              except Exception as e:
+                  errors.append(f"{path}: invalid YAML: {e}")
+
+          with open(".upptimerc.yml") as f:
+              config = yaml.safe_load(f) or {}
+
+          for key in ("owner", "repo", "sites"):
+              if not config.get(key):
+                  errors.append(f".upptimerc.yml: missing required key '{key}'")
+
+          names = set()
+          for i, site in enumerate(config.get("sites") or []):
+              name, url = site.get("name"), site.get("url")
+              if not name or not url:
+                  errors.append(f".upptimerc.yml: site #{i + 1} needs both 'name' and 'url'")
+              if name in names:
+                  errors.append(f".upptimerc.yml: duplicate site name '{name}'")
+              names.add(name)
+
+          for e in errors:
+              print(f"::error::{e}")
+          if errors:
+              sys.exit(1)
+          print(f"OK: {len(names)} sites, config and workflows parse")

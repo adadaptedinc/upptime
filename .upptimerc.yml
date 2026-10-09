@@ -4,29 +4,33 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: AdAdapted Direct
-    url: https://direct.dev.adadapted.dev
-  - name: AdAdapted Circulars
-    url: https://circulars.dev.adadapted.dev
-  - name: AdAdapted Direct Reporting API
-    url: $SECRET_SITE_1
-  - name: AdAdapted Direct Service API
-    url: $SECRET_SITE_2
-  - name: Circular API
-    url: $SECRET_SITE_3
   - name: Telemetry API
-    url: $SECRET_SITE_4
+    url: $SECRET_TELEMETRY_API
+  - name: MSP API
+    url: $SECRET_MSP_API
+  - name: Ad Service API
+    url: $SECRET_AD_SERVICE_API
+  - name: PaaS Management API
+    url: $SECRET_PAAS_MANAGEMENT_API
+    slug: paas-management-api
+  - name: PaaS Admin API
+    url: $SECRET_PAAS_ADMIN_API
+    slug: paas-admin-api
+  - name: PaaS Service API
+    url: $SECRET_PAAS_SERVICE_API
+    slug: paas-service-api
 
-notifications:
-  - type: slack
-    channel: $SLACK_CHANNEL
+# Slack notifications are configured via repo secrets (not this file):
+#   NOTIFICATION_SLACK=true and NOTIFICATION_SLACK_WEBHOOK_URL=<incoming webhook URL>
+# See https://upptime.js.org/docs/notifications
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.adadapted.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://secureservercdn.net/45.40.148.147/cnp.503.myftpupload.com/wp-content/uploads/2020/05/cropped-AdAdapted-Logo.png
-  name: Upptime
+  logoUrl: https://storage.googleapis.com/com-adadapted-images/static/adadapted-logo.svg
+  faviconSvg: https://storage.googleapis.com/com-adadapted-images/static/adadapted-logo.svg
+  name: AdAdapted Status
   introTitle: "AdAdapted Development Services Status"
   introMessage: This status page provides realtime status updates for AdAdapted Development API's and applications
   navbar:
