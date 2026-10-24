@@ -1,7 +1,7 @@
 url: $SECRET_MSP_API
-status: down
-code: 403
-responseTime: 259
-lastUpdated: 2026-10-24T21:17:35.833Z
+status: up
+code: 200
+responseTime: 142
+lastUpdated: 2026-10-24T21:30:21.296Z
 startTime: 2026-10-12T15:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
