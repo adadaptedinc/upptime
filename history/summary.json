@@ -4,17 +4,17 @@
     "url": "$SECRET_TELEMETRY_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "telemetry-api",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 167,
-    "timeDay": 197,
-    "timeWeek": 188,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "timeDay": 184,
+    "timeWeek": 185,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2026-10-16": 19,
       "2026-10-17": 29,
@@ -22,7 +22,7 @@
       "2026-10-21": 16,
       "2026-10-23": 32,
       "2026-10-24": 13,
-      "2026-10-25": 1
+      "2026-10-25": 14
     }
   },
   {
@@ -30,15 +30,15 @@
     "url": "$SECRET_MSP_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "msp-api",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 150,
-    "timeDay": 169,
-    "timeWeek": 149,
+    "timeDay": 166,
+    "timeWeek": 150,
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {
@@ -48,7 +48,7 @@
       "2026-10-21": 16,
       "2026-10-23": 31,
       "2026-10-24": 13,
-      "2026-10-25": 1
+      "2026-10-25": 13
     }
   },
   {
@@ -56,17 +56,17 @@
     "url": "$SECRET_AD_SERVICE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ad-service-api",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 141,
-    "timeDay": 141,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 140,
+    "timeDay": 138,
     "timeWeek": 132,
-    "timeMonth": 141,
-    "timeYear": 141,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2026-10-16": 19,
       "2026-10-17": 27,
@@ -74,7 +74,7 @@
       "2026-10-21": 16,
       "2026-10-23": 30,
       "2026-10-24": 13,
-      "2026-10-25": 1
+      "2026-10-25": 13
     }
   },
   {
@@ -82,15 +82,15 @@
     "url": "$SECRET_PAAS_MANAGEMENT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paas-management-api",
-    "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "status": "up",
+    "uptime": "99.34%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 147,
-    "timeDay": 142,
-    "timeWeek": 143,
+    "timeDay": 139,
+    "timeWeek": 142,
     "timeMonth": 147,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -100,7 +100,7 @@
       "2026-10-21": 15,
       "2026-10-23": 30,
       "2026-10-24": 12,
-      "2026-10-25": 0
+      "2026-10-25": 13
     }
   },
   {
@@ -108,15 +108,15 @@
     "url": "$SECRET_PAAS_ADMIN_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paas-admin-api",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 126,
     "timeDay": 133,
-    "timeWeek": 124,
+    "timeWeek": 125,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -126,7 +126,7 @@
       "2026-10-21": 15,
       "2026-10-23": 30,
       "2026-10-24": 12,
-      "2026-10-25": 0
+      "2026-10-25": 13
     }
   },
   {
