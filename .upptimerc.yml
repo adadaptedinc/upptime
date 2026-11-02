@@ -6,15 +6,25 @@ repo: upptime # Your Github repository name
 sites:
   - name: Telemetry API
     url: $SECRET_TELEMETRY_API
+    headers:
+      - "X-Upptime-Token: $SECRET_UPPTIME_TOKEN"
   - name: MSP API
     url: $SECRET_MSP_API
+    headers:
+      - "X-Upptime-Token: $SECRET_UPPTIME_TOKEN"
   - name: Ad Service API
     url: $SECRET_AD_SERVICE_API
+    headers:
+      - "X-Upptime-Token: $SECRET_UPPTIME_TOKEN"
   - name: PaaS Management API
     url: $SECRET_PAAS_MANAGEMENT_API
+    headers:
+      - "X-Upptime-Token: $SECRET_UPPTIME_TOKEN"
     slug: paas-management-api
   - name: PaaS Admin API
     url: $SECRET_PAAS_ADMIN_API
+    headers:
+      - "X-Upptime-Token: $SECRET_UPPTIME_TOKEN"
     slug: paas-admin-api
   - name: PaaS Service API
     url: $SECRET_PAAS_SERVICE_API
