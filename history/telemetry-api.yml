@@ -1,7 +1,7 @@
 url: $SECRET_TELEMETRY_API
 status: up
 code: 200
-responseTime: 59
-lastUpdated: 2026-11-22T23:09:26.849Z
+responseTime: 161
+lastUpdated: 2026-11-23T23:10:23.164Z
 startTime: 2026-10-12T15:00:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
